@@ -6,8 +6,12 @@
 
 2. mvn exec:java
 
-## Coming Soon:
+## New Feature
 
+3/13/18 - Update made to handle out of bounds conditions. 
+Now the program displays points that go out of bounds on the other side of the array for a "wrapping" effect.
+
+## Coming Soon:
 
 1. Variable Input Parameters
 
